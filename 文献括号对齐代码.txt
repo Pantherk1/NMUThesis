@@ -1,0 +1,9 @@
+在abstract后面，\begin{document}之前加入以下代码：
+
+
+
+
+%对齐参考文献
+\makeatletter
+\def\@biblabel#1{[#1]\hfill}
+\makeatother
