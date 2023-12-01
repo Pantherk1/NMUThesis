@@ -91,3 +91,8 @@ NMUThesis
 ***
 
 By [Wizen Zhang](https://wizenzhang.github.io/), at NMU.
+
+## 更新
+
+添加了中文文献格式声明，改进了格式；
+加入文献左括号对齐，文字左对齐代码
